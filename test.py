@@ -1,1 +1,1 @@
-print("Pongpon","O","age 26","Dev")
+print("Pongpon","O","age 26","OK")
